@@ -15,22 +15,22 @@ In this project you'll take this crypto currency tracker app and build two custo
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-custom-hook`
-* [ ] Download project dependencies by running `npm install`
-* [ ] Start up the app using `npm start`
+* [X] Create a forked copy of this project.
+* [X] Clone your OWN version of the repository in your terminal
+* [X] cd into the project base directory `cd web-module-project-custom-hook`
+* [X] Download project dependencies by running `npm install`
+* [X] Start up the app using `npm start`
 
 ### Task 2: Project Requirements
 #### Build a useDarkMode hook
-* [ ] Create a new folder called `hooks.`
-* [ ] Create a file called `useDarkMode.js`.
+* [X] Create a new folder called `hooks.`
+* [X] Create a file called `useDarkMode.js`.
 * [ ] Build a hook that ONLY setups a boolean state value. This value governs if dark mode is on or off.
 * [ ] Return the slice of state created and the state modification function.
 * [ ] Replace the darkMode state definition with useDarkMode in index.js.
 
 #### Build a useLocalStorage hook
-* [ ] Create a file called `useLocalStorage.js`.
+* [X] Create a file called `useLocalStorage.js`.
 * [ ] Build a hook called that takes in a key value and an initialValue.
 * [ ] Use the code from GP to build the the hook.
 
@@ -42,7 +42,7 @@ In this project you'll take this crypto currency tracker app and build two custo
 
 
 ## Submission Format
-- [ ] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
-- [ ] Connect your fork to Codegrade using the "Connect Git" button.
-- [ ] Find your newly created fork from the list and push your work to main.
-- [ ] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+- [X] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
+- [X] Connect your fork to Codegrade using the "Connect Git" button.
+- [X] Find your newly created fork from the list and push your work to main.
+- [X] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
